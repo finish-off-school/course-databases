@@ -1,1 +1,1 @@
-# course-databases
+# Databases: SQL, No-SQL and ORMs
